@@ -67,3 +67,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathikchandra0&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00F7FF&height=120&section=footer"/>
+</p>
