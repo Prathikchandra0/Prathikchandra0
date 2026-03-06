@@ -69,3 +69,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
 </p>
+
+## 📊 3D Contributions
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=tokyonight"/>
+</p>
