@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+In+Progress;Machine+Learning+Explorer;Flutter+Developer;Blockchain+Learner"/>
 </p>
+
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
@@ -11,10 +12,10 @@
 
 # 🚀 About Me
 
-- 💻 Computer Science Student
-- 🤖 Learning **AI, Machine Learning & Data Science**
-- 📱 Building apps using **Flutter**
-- 🧠 Practicing **DSA daily**
+- 💻 Computer Science Student  
+- 🤖 Learning **AI, Machine Learning & Data Science**  
+- 📱 Building apps using **Flutter**  
+- 🧠 Practicing **DSA daily**  
 - 🎯 Goal: Become an **AI Engineer**
 
 ---
@@ -67,14 +68,18 @@
 </a>
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Prathikchandra0/Prathikchandra0/output/github-contribution-grid-snake.svg">
 </p>
+
+---
 
 ## 📊 3D Contributions
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathikchandra0&theme=tokyonight"/>
 </p>
