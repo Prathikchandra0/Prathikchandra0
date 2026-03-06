@@ -35,13 +35,6 @@
 <img src="https://img.shields.io/badge/DataScience-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prathikchandra0&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-</p>
 
 ---
 
@@ -52,12 +45,7 @@
 <img src="https://streak-stats.demolab.com?user=Prathikchandra0&theme=tokyonight"/>
 </p>
 
----
-## 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathikchandra0&layout=compact&theme=tokyonight"/>
-</p>
 ---
 
 # 👀 Profile Views
