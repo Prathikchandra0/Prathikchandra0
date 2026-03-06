@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=00ff00&animation=fadeIn"/>
+</p>
 <h1 align="center">Hi 👋 I'm Prathik</h1>
 
 <p align="center">
