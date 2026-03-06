@@ -68,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Prathikchandra0/Prathikchandra0/output/github-contribution-grid-snake-dark.svg">
