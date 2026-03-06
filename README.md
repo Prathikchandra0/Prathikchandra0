@@ -12,16 +12,27 @@
 
 - 💻 Computer Science Student  
 - 🤖 Learning **AI, Machine Learning & Data Science**  
-- 📱 Building apps using **Flutter**  
-- 🧠 Practicing **DSA daily**  
 - 🎯 Goal: Become an **AI Engineer**
+
+## 🧠 Currently Focusing On
+
+- Data Structures & Algorithms
+- Machine Learning
+- Artificial Intelligence
 
 ---
 
 # 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,react,js,html,css,git,github,tensorflow,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,tensorflow"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataScience-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
