@@ -65,7 +65,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/prathikchandravuppala">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
