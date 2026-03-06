@@ -37,7 +37,28 @@
 
 
 ---
+## 🧊 GitHub Skyline
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathikchandra0&theme=tokyonight"/>
+</p>
+---
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500"/>
+</p>
+---
+## 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/prathik_chandra0?theme=dark&font=Baloo&ext=activity"/>
+</p>
+---
+## 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathikchandra0&theme=tokyo-night"/>
+</p>
+---
 
 ## 🔥 GitHub Streak
 
