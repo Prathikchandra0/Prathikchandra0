@@ -35,19 +35,7 @@
 <img src="https://img.shields.io/badge/DataScience-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-## 🏆 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/prathik_chandra0?theme=dark&font=Baloo&ext=activity"/>
-</p>
----
-## 📊 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathikchandra0&theme=tokyo-night"/>
-</p>
----
 
 ## 🔥 GitHub Streak
 
