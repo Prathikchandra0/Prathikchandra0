@@ -40,7 +40,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prathikchandra0&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prathikchandra0&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
@@ -60,15 +60,6 @@
 <img src="https://komarev.com/ghpvc/?username=Prathikchandra0&color=blue"/>
 </p>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="www.linkedin.com/in/prathikchandravuppala">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
 
 ---
 
